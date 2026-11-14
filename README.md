@@ -6,6 +6,7 @@ I am solving pratyush's sheet of ds algos
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishiAman101/Dsa-patterns/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishiAman101/Dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ I am solving pratyush's sheet of ds algos
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishiAman101/Dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rishiAman101/Dsa-patterns/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
