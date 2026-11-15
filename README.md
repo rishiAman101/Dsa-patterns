@@ -7,10 +7,12 @@ I am solving pratyush's sheet of ds algos
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishiAman101/Dsa-patterns/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishiAman101/Dsa-patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishiAman101/Dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishiAman101/Dsa-patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishiAman101/Dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
