@@ -1,3 +1,5 @@
+//this solution will definetely has taken more space because we split an array into 2 then we have solved this 
+//in next sol we will apply the concept on one array only 
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
